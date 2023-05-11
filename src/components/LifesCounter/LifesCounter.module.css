@@ -1,0 +1,11 @@
+.lifes {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.lifes span {
+  font-size: 24px;
+  font-weight: 700;
+}
